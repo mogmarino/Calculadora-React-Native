@@ -2,7 +2,7 @@ Calculadora-React-Native
 Este es un proyecto de una calculadora básica desarrollada en React Native.
 
 Instalación
-Para poder utilizar la calculadora, es necesario tener instalado Node.js y React Native en el equipo, como asi tambien se recomiendo el uso del emulador de Android Studio o Xcode en el caso de macOS, tambien se puede ejecutar en un dispositivo fisico en el caso de android. Luego, se pueden seguir los siguientes pasos:
+Para poder utilizar la calculadora, es necesario tener instalado Node.js y React Native en el equipo, como asi tambien se recomienda el uso del emulador de Android Studio o Xcode en el caso de macOS, tambien se puede ejecutar en un dispositivo fisico en el caso de android. Luego, se pueden seguir los siguientes pasos:
 
 Clonar el repositorio: git clone https://github.com/mogmarino/Calculadora-React-Native.git
 Instalar las dependencias: npm install
