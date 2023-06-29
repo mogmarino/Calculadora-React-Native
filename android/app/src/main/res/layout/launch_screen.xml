@@ -8,9 +8,19 @@
 
     <FrameLayout
         android:layout_width="216dp"
-        android:layout_height="216dp"
+        android:layout_height="224dp"
         android:layout_gravity="center"
-        android:background="@mipmap/ic_launcher">
+        android:background="@mipmap/ic_launcher" />
 
-    </FrameLayout>
+    <TextView
+        android:id="@+id/textView2"
+        style="@android:style/Widget.DeviceDefault.Light.TextView"
+        android:layout_width="match_parent"
+        android:layout_height="63dp"
+        android:gravity="center"
+        android:text="By mogmarino"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#3C3C3C"
+        android:textSize="24sp" />
+
 </LinearLayout>
